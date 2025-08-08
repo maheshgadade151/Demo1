@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorial 1  Date : 1 Aug 2025
+
+1.Write a Program in C to traverse a linear array. 
+2.Write a Program in C to insert an element in the array.
+
+Tutorial 2 Date : 5 Aug 2025
+
+1.Write a Program in C  to delete an element from the array.
+2.Write a Program in C  to display the last element of the array.
+3.Write a Program in C  to display first element of the array.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
